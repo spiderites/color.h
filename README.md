@@ -29,3 +29,5 @@ return 0;
 ```
 
 ![sample](https://github.com/spiderites/color.h/blob/main/sample.png) 
+
+TODO: color functions, hex, templates. 
